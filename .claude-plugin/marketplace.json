@@ -20,7 +20,7 @@
       "name": "ida-mcp",
       "source": {
         "source": "url",
-        "url": "https://github.com/HexRaysSA/ida-codemode.git",
+        "url": "https://github.com/HexRaysSA/ida-mcp.git",
         "ref": "latest"
       }
     }

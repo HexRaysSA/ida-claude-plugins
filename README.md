@@ -15,6 +15,12 @@ claude plugin marketplace add HexRaysSA/claude-marketplace
 - IDA Pro 9.x
 - [`uv`](https://astral.sh/uv)
 
+## [IDA MCP](https://github.com/HexRaysSA/ida-mcp)
+
+```bash
+claude plugin add ida-mcp@HexRaysSA
+```
+
 ## [ida-plugin-development](plugins/ida-plugin-development/README.md)
 
 Develop plugins for IDA Pro in Python, using idiomatic patterns, lessons, and tricks.
